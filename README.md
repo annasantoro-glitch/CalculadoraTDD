@@ -39,8 +39,7 @@ Essa atividade instigou minha habilidade de revisão de código, validação ent
    python calculdora.py
 
 3. Execute os testes com pytest (Opcional)
-  ``bash 
-  pytest tests/``
+   ``pytest tests/``
 
 ## Próximos passos sugeridos:
 
