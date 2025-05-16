@@ -30,8 +30,7 @@ Essa atividade instigou minha habilidade de revisão de código, validação ent
 ## Como Executar:
 
 1. Clone o repositório:
-   ```bash 
-   git clone 
+   ```bash  
 git clone https://github.com/annasantoro-glitch/CalculadoraTDD.git
 cd CalculadoraTDD
 
