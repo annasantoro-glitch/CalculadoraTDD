@@ -30,13 +30,13 @@ Essa atividade instigou minha habilidade de revisão de código, validação ent
 ## Como Executar:
 
 1. Clone o repositório:
-   ```bash  
-git clone https://github.com/annasantoro-glitch/CalculadoraTDD.git
-cd CalculadoraTDD
+   ```bash
+   git clone https://github.com/annasantoro-glitch/CalculadoraTDD.git
+   cd CalculadoraTDD
 
 2. Execute a calculdora via terminal:
-   ```bash 
-  python calculdora.py
+   ```bash
+   python calculdora.py
 
 3. Execute os testes com pytest (Opcional)
   ```bash 
